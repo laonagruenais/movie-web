@@ -321,7 +321,8 @@
         "default": "Default",
         "gray": "Gray",
         "red": "Red",
-        "teal": "Teal"
+        "teal": "Teal",
+        "white": "White"
       },
       "title": "Appearance"
     },
